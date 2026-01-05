@@ -1,2 +1,3 @@
 # inputcode
-getting data through input function 
+100 days Python learning Challenges code from basic to adv
+
