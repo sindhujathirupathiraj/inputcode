@@ -1,0 +1,5 @@
+print("Welcome to the GitHub :) !")
+name=input("What is your name?")
+age=int(input("What is your age?"))
+nationality=input("What is your nationality?")
+print("Sucessfully Registered!" + " " +" Have a Great Day:)" + " "+name)
